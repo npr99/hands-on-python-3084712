@@ -1,6 +1,10 @@
 NAMES = ["John", "Paul", "George", "Ringo"]
 AGES = [20, 21, 22, 23]
 
+print(NAMES[0:1])
+print(NAMES[0:2])
+print(NAMES[0:3])
+
 JOHN = NAMES[0]
 PAUL = NAMES[1]
 
